@@ -20,7 +20,7 @@ export default function Navbar({ handleThemeSwitch }) {
         </div>
         <Link to="https:praveenpage.netlify.com/" target="_blank" rel="noopener noreferrer">
           <p className=" mt-2 py-1 font-outfit text-xl tracking-wider text-[#202124] transition-all delay-150 duration-300 ease-in-out hover:translate-x-1 hover:scale-105 hover:cursor-pointer hover:rounded-xl hover:bg-[#e9e6e6] hover:px-3 hover:py-1 dark:text-[#f6eee8] hover:dark:bg-[#36363b]">
-            PraVeen
+            NiSha
           </p>
         </Link>
       </div>
