@@ -27,13 +27,13 @@ export default function Navbar({ handleThemeSwitch }) {
 
 
       <div className="flex gap-2 pt-3  dark:text-[#e0eaf2]">
-        <a className="tooltip tooltip-bottom" data-tip="linkedin.com/praveen" target="_blank" href="https://www.linkedin.com/in/pk-b87b3b212/">
+        <a className="tooltip tooltip-bottom" data-tip="linkedin.com/Nisha" target="_blank" href="https://www.linkedin.com/in/nisha-sri-kasirajan-8148b6257/">
           <BsLinkedin
             className="tooltip cursor-pointer  rounded-md text-[1.8rem] hover:fill-[#0069b9] dark:fill-[#f9f3ee]  dark:hover:fill-[#00adb5]"
             fill="black"
           />
         </a>
-        <a className="tooltip tooltip-bottom" data-tip="github.com/praveen" target="_blank" href="https://github.com/praveenkumar-236">
+        <a className="tooltip tooltip-bottom" data-tip="github.com/Nisha" target="_blank" href="https://github.com/nishasrik">
           <BsGithub
             className=" cursor-pointer text-[1.8rem]  hover:fill-[#0069b9] dark:fill-[#f9f3ee] dark:hover:fill-[#00adb5]"
             fill="black"

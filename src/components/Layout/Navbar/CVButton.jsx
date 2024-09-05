@@ -1,6 +1,6 @@
 import React from 'react'
 import { BsFillFileEarmarkTextFill } from 'react-icons/bs'
-import PraveenResume from './PraveenKumar_Resume.pdf'
+import PraveenResume from ''
 import './CVButtonAnimate.css'
 
 export default function CVButton() {
