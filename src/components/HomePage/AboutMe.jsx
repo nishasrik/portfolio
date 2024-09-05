@@ -20,7 +20,7 @@ export default function AboutMe() {
             <br /> <br />
             Frontend and full-stack technologies have been my main focus for projects lately.
             <br /> <br />
-            Technologies I am currently working with include: Java, SpringBoot, Kafka, Next.js, React, Tailwind, and Amazon Web Services .
+            Technologies I am currently working with include: Java, SpringBoot, Next.js, React and Amazon Web Services .
             <br /> <br />
             The constant exploration of intriguing new technologies fuels my motivation to plan and execute projects that I find enjoyable, leading to enhanced learning outcomes.
             <br /> <br />
